@@ -38,17 +38,17 @@
 $sys_name = "SourceBiz";
 $sys_title = "Open Source Business";
 $sys_url_title = "http://www.berlios.de/";
-$sys_url = "http://sourcebiz.berlios.de/sourcebiz2/";
+$sys_url = "http://localhost/sourcebiz/";
 $sys_logo_image = "images/berliOS_logo.png";
 $sys_logo_alt = "BerliOS";
 $sys_logo_width = "238";
 $sys_logo_heigth = "61";
 #$sys_logo_small_image = "images/berliOS_small_logo.png";
-$sys_logo_small_image = "http://developer.berlios.de/bslogo.php?group_id=76&type=1";
+$sys_logo_small_image = "http://developer.berlios.de/bslogo.php?group_id=76";
 $sys_logo_small_alt = $sys_logo_alt;
 $sys_logo_small_width = "124";
 $sys_logo_small_heigth = "32";
-$sys_dir = "/home/groups/sourcebiz/htdocs/sourcebiz2/";
+$sys_dir = "/home/groups/sourcebiz/htdocs/";
 $sys_logo_dir = $sys_dir."logos/";
 $sys_logo_url = $sys_url."logos/";
 
@@ -64,7 +64,7 @@ $sys_logo_url = $sys_url."logos/";
 ######################################################################
 
 $org_name = "FOKUS";
-$org_url = "http://www.fokus.fhg.de/";
+$org_url = "http://www.fokus.fraunhofer.de/";
 $org_logo_image = "images/logo_fokus.png";
 $org_logo_alt = $org_name;
 $org_logo_width = "60";
