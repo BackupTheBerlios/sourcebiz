@@ -16,13 +16,13 @@
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 or later of the GPL.
 #
-# $Id: backend.php,v 1.2 2003/02/25 11:45:44 helix Exp $
+# $Id
 #
 ###################################################################### 
 
 require("./include/prepend.php3");
 
-header("Content-Type: text/plain");
+header("Content-Type: text/xml");
 
 // Disabling cache
 header("Cache-Control: no-cache, must-revalidate");     // HTTP/1.1
@@ -37,16 +37,16 @@ echo "           \"http://my.netscape.com/publish/formats/rss-0.91.dtd\">\n";
 echo "<rss version=\"0.91\">\n";
 
 echo "  <channel>\n";
-echo "    <title>".$sys_name."</title>\n";
+echo "    <title>".htmlspecialchars($sys_name)."</title>\n";
 echo "    <link>".$sys_url."</link>\n";
-echo "    <description>".$sys_name." - ".$sys_title."</description>\n";
+echo "    <description>".htmlspecialchars($sys_name." - ".$sys_title)."</description>\n";
 echo "    <language>en-us</language>\n";
 
 echo "  <image>\n";
-echo "    <title>".$sys_name."</title>\n";
+echo "    <title>".htmlspecialchars($sys_name)."</title>\n";
 echo "    <url>".$sys_url.$sys_logo_image."</url>\n";
 echo "    <link>".$sys_url."</link>\n";
-echo "    <description>".$sys_name." - ".$sys_title."</description>\n";
+echo "    <description>".htmlspecialchars($sys_name." - ".$sys_title)."</description>\n";
 echo "    <width>66</width>\n";
 echo "    <height>73</height>\n";
 echo "  </image>\n";
@@ -61,7 +61,7 @@ $db->query("SELECT * FROM news WHERE news.status_new='A' ORDER BY news.modificat
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("subject_new")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("subject_new"))."</title>\n";
   echo "    <link>".$sys_url."newbynewid.php?id=".$db->f("newid")."</link>\n";
   echo "  </item>\n";
   $i++;
@@ -93,7 +93,7 @@ $db->query("SELECT * FROM enterprise WHERE enterprise.status='A' LIMIT $offset,$
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("name")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("name"))."</title>\n";
   echo "    <link>".$sys_url."entbyid.php?id=".$db->f("entid")."</link>\n";
   echo "  </item>\n";
   $i++;
@@ -125,7 +125,7 @@ $db->query("SELECT * FROM contact WHERE contact.status_con='A' LIMIT $offset,$bl
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("name_con")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("name_con"))."</title>\n";
   echo "    <link>".$sys_url."conbyconid.php?id=".$db->f("conid")."</link>\n";
   echo "  </item>\n";
   $i++;
@@ -157,7 +157,7 @@ $db->query("SELECT * FROM services WHERE services.status_svc='A' LIMIT $offset,$
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("name_svc")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("name_svc"))."</title>\n";
   echo "    <link>".$sys_url."svcbysvcid.php?id=".$db->f("svcid")."</link>\n";
   echo "  </item>\n";
   $i++;
@@ -189,7 +189,7 @@ $db->query("SELECT * FROM products WHERE products.status_pro='A' LIMIT $offset,$
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("name_pro")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("name_pro"))."</title>\n";
   echo "    <link>".$sys_url."probyproid.php?id=".$db->f("proid")."</link>\n";
   echo "  </item>\n";
   $i++;
@@ -221,7 +221,7 @@ $db->query("SELECT * FROM solutions WHERE solutions.status_sol='A' LIMIT $offset
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("name_sol")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("name_sol"))."</title>\n";
   echo "    <link>".$sys_url."solbysolid.php?id=".$db->f("solid")."</link>\n";
   echo "  </item>\n";
   $i++;
@@ -253,7 +253,7 @@ $db->query("SELECT * FROM customers WHERE customers.status_cus='A' LIMIT $offset
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("name_cus")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("name_cus"))."</title>\n";
   echo "    <link>".$sys_url."cusbycusid.php?id=".$db->f("cusid")."</link>\n";
   echo "  </item>\n";
   $i++;
