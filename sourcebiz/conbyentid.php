@@ -16,7 +16,7 @@
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 or later of the GPL.
 #
-# $Id
+# $Id: conbyentid.php,v 1.2 2003/02/25 11:45:44 helix Exp $
 #
 ######################################################################
 
