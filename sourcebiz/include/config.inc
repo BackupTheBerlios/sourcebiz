@@ -16,7 +16,7 @@
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 or later of the GPL.
 #
-# $Id:
+# $Id: config.inc,v 1.4 2003/02/25 11:39:30 helix Exp $
 #
 ######################################################################
 
