@@ -1,0 +1,1316 @@
+--10:21:32--  http://sourcewell.berlios.de:80/sw/nlsend.php3?period=weekly
+           => `/home/groups/sourcewell/htdocs/sw/crontab/nlweekly.output'
+Connecting to sourcewell.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+10:21:33 (147.46 KB/s) - `/home/groups/sourcewell/htdocs/sw/crontab/nlweekly.output' saved [151]
+
+--10:25:42--  http://sourcewell.berlios.de:80/sw/nlsend.php3?period=weekly
+           => `/home/groups/sourcewell/htdocs/sw/crontab/nlweekly.output'
+Connecting to sourcewell.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+10:25:43 (74.22 KB/s) - `/home/groups/sourcewell/htdocs/sw/crontab/nlweekly.output' saved [76]
+
+--09:09:41--  http://sourcebiz.berlios.de:80/sb/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/sb/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/sb/nlsend.php3?period=weekly&SourceBiz_Session=2e05366b21e616f0fb33f0f9c2b89fb2 [following]
+--09:09:41--  http://sourcebiz.berlios.de:80/sb/nlsend.php3?period=weekly&SourceBiz_Session=2e05366b21e616f0fb33f0f9c2b89fb2
+           => `/home/groups/sourcebiz/htdocs/sb/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+09:09:41 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/sb/crontab/nlweekly.output' saved [70]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/sb/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/sb/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/sb/nlsend.php3?period=weekly&SourceBiz_Session=1b48b6f9ff7d9a9cb084995b16646e63 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/sb/nlsend.php3?period=weekly&SourceBiz_Session=1b48b6f9ff7d9a9cb084995b16646e63
+           => `/home/groups/sourcebiz/htdocs/sb/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (67.38 KB/s) - `/home/groups/sourcebiz/htdocs/sb/crontab/nlweekly.output' saved [69]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=a60004af3fe56047e38b0a98f62c2663 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=a60004af3fe56047e38b0a98f62c2663
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (67.38 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [69]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=78e7f95ba2b97642e724fd566e86f2a7 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=78e7f95ba2b97642e724fd566e86f2a7
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [70]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=93ab8e9bdc5548cff288184876282930 [following]
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=93ab8e9bdc5548cff288184876282930
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:02 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=426714e2c2031390a178fcfc61fe7b25 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=426714e2c2031390a178fcfc61fe7b25
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [70]
+
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=6dc82386803c610f948321b6bb13eb24 [following]
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=6dc82386803c610f948321b6bb13eb24
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:02 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=83178bcd5d7102b819ab3c24095533ed [following]
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=83178bcd5d7102b819ab3c24095533ed
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=b8723ac0aa9e744e8ea21fd6af4d8759 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=b8723ac0aa9e744e8ea21fd6af4d8759
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=24f03e2b860a060ef8f24b377079a99a [following]
+--23:59:01--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=24f03e2b860a060ef8f24b377079a99a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=01634c9e319012fe4c6f65802be816f1 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=01634c9e319012fe4c6f65802be816f1
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=6b8f53efd1e3c2d6064ea12de77b816e [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=6b8f53efd1e3c2d6064ea12de77b816e
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (56.64 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [58]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=c8598a3512dc43b8d47e78fdb52618f7 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=c8598a3512dc43b8d47e78fdb52618f7
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (56.64 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [58]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=a82ca85e84a559f6ac8a05828f07f5b2 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=a82ca85e84a559f6ac8a05828f07f5b2
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (56.64 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [58]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=2c306f7822c04b8df83fce27d1ffe631 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=2c306f7822c04b8df83fce27d1ffe631
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (56.64 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [58]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=4e10a286b9ee616bce1c86fb2bf3368d [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=4e10a286b9ee616bce1c86fb2bf3368d
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (70.31 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [72]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=9cd3e995a15a8423fbf2654871d752b0 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=9cd3e995a15a8423fbf2654871d752b0
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:00 (73.24 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [75]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=20fb48fad2c292607c706e6d703ad699 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=20fb48fad2c292607c706e6d703ad699
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (73.24 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [75]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=4c5849172bda04ce82e8c07f11e98a36 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=4c5849172bda04ce82e8c07f11e98a36
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (73.24 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [75]
+
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=400849979a9393e78f4489ba9908c0b4 [following]
+--23:59:00--  http://sourcebiz.berlios.de:80/nlsend.php3?period=weekly&SourceBiz_Session=400849979a9393e78f4489ba9908c0b4
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K ->
+
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=978af3d2e7af41ac7c90af185ea04975 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=978af3d2e7af41ac7c90af185ea04975
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  58.59 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (58.59 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [60]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=f8bfa733793e78f8e81fd9bf6e82bb6f [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=f8bfa733793e78f8e81fd9bf6e82bb6f
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7234a0f85fb6541e6eb6cb2e5f7ae906 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7234a0f85fb6541e6eb6cb2e5f7ae906
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  58.59 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (58.59 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [60]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... 
+Connection to sourcebiz.berlios.de:80 refused.
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=2c65e7d411e7aa605ebe460f73218b31 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=2c65e7d411e7aa605ebe460f73218b31
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=35fa44423aac82e9d672ae2139960f25 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=35fa44423aac82e9d672ae2139960f25
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=abed388aa3ff21856834f38a26336b0b [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=abed388aa3ff21856834f38a26336b0b
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=42f43606c470364c369c3e236573453a [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=42f43606c470364c369c3e236573453a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9eebe3d738ca80476306156d91c1510d [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9eebe3d738ca80476306156d91c1510d
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8cf68d8edccb90f9f109d0b668aed2c8 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8cf68d8edccb90f9f109d0b668aed2c8
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=286859b150d81d6905d5cbc72483964a [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=286859b150d81d6905d5cbc72483964a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  58.59 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (58.59 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [60]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9acb965f7a5775b410aea79a2abe6fa6 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9acb965f7a5775b410aea79a2abe6fa6
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  58.59 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (58.59 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [60]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=6b84e4f0b61a7a85e00262f176706295 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=6b84e4f0b61a7a85e00262f176706295
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=0c88b2f917e27b698c4d9813df5622ef [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=0c88b2f917e27b698c4d9813df5622ef
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9ed486dcd33d233a297ff652dc761562 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9ed486dcd33d233a297ff652dc761562
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=3d1959e90d0bd7c8fee689cc0acc202a [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=3d1959e90d0bd7c8fee689cc0acc202a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8acc76c9d2e99e617414a62c7ce31bc3 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8acc76c9d2e99e617414a62c7ce31bc3
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  55.66 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (55.66 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [57]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7dbff81c491050920c55a2b8276f5480 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7dbff81c491050920c55a2b8276f5480
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  55.66 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (55.66 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [57]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=d4cd2c14a0bdea149cb5d10d96590fd8 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=d4cd2c14a0bdea149cb5d10d96590fd8
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=2da9ba43340fbb5ceca569d143884aca [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=2da9ba43340fbb5ceca569d143884aca
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=55e1501c475bb052557cd5bc817bd0cd [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=55e1501c475bb052557cd5bc817bd0cd
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  69.34 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (69.34 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [71]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=44fc6821226982b89d30a87ff29fc468 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=44fc6821226982b89d30a87ff29fc468
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  67.38 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (67.38 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [69]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=271b375f0e890c601f4a81578a411cf0 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=271b375f0e890c601f4a81578a411cf0
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  53.71 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (53.71 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [55]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=c19044c3ef753b77fc6d984a5382f07f [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=c19044c3ef753b77fc6d984a5382f07f
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  67.38 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (67.38 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [69]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=dbc83c50f2d00aae7e75db890f205718 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=dbc83c50f2d00aae7e75db890f205718
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  53.71 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (53.71 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [55]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=ed9938f5ca3eae915fc389c654e01ba9 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=ed9938f5ca3eae915fc389c654e01ba9
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  67.38 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:02 (67.38 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [69]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7f95c7b01702dff857157316c0a085eb [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7f95c7b01702dff857157316c0a085eb
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  54.69 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=3ba0ae3ecc7cf81c8fc2f62eebdcaf5d [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=3ba0ae3ecc7cf81c8fc2f62eebdcaf5d
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  68.36 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [70]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=5a5abb858de38410448e9adab347cee5 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=5a5abb858de38410448e9adab347cee5
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  54.69 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=fbe3c49c2a37766da319c3f60be2f730 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=fbe3c49c2a37766da319c3f60be2f730
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  68.36 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [70]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=3d9a27d242bc9b5b6c5e6065ddfd946f [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=3d9a27d242bc9b5b6c5e6065ddfd946f
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  54.69 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=ff20e8142ab651168eb3ab3e4eb1f88d [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=ff20e8142ab651168eb3ab3e4eb1f88d
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  68.36 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [70]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=4db6c5ba6fb9cfd4faa03d4dea9de9cd [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=4db6c5ba6fb9cfd4faa03d4dea9de9cd
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  68.36 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (68.36 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [70]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=bd022ded0df3a1acab1c634951bce81a [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=bd022ded0df3a1acab1c634951bce81a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  54.69 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (54.69 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [56]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8fa2c23234679d008b52529de3be0864 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8fa2c23234679d008b52529de3be0864
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  70.31 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (70.31 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [72]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=dea352ac8ded7e4542474c7177a3d7a0 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=dea352ac8ded7e4542474c7177a3d7a0
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  70.31 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (70.31 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [72]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=6b4dfa2a56dfd648882e6686825b2666 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=6b4dfa2a56dfd648882e6686825b2666
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  70.31 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (70.31 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [72]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=b2e720013202bb61a69e8e3293a4d770 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=b2e720013202bb61a69e8e3293a4d770
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  70.31 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (70.31 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [72]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=05532fff4f3818586c7f3c30e9f717db [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=05532fff4f3818586c7f3c30e9f717db
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  70.31 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (70.31 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [72]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=52fc03a90fc8b482147125aa950cab8b [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=52fc03a90fc8b482147125aa950cab8b
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  73.24 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:04 (73.24 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [75]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=56db1adcb7ef39fff05ed26145f88663 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=56db1adcb7ef39fff05ed26145f88663
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  59.57 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (59.57 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [61]
+
+--23:59:04--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=b6c016463cf112f4f7320ff3a61cee1e [following]
+--23:59:04--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=b6c016463cf112f4f7320ff3a61cee1e
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  59.57 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:04 (59.57 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [61]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=0245a01bfd83678ff5ae61f74c002edd [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=0245a01bfd83678ff5ae61f74c002edd
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  59.57 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (59.57 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [61]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=5bd201e4c3f4f99c1ad6022a93b3427c [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=5bd201e4c3f4f99c1ad6022a93b3427c
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=aee2c1936f958efd3e12c8f11cd9c0c3 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=aee2c1936f958efd3e12c8f11cd9c0c3
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7335e6798ca1cec713b4cc4c6e3667da [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=7335e6798ca1cec713b4cc4c6e3667da
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:00 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8a5cccf0dc57c39ad8dfddae2dc133d4 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8a5cccf0dc57c39ad8dfddae2dc133d4
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:04 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=e1ef6d02868e308089e54d6c14c27e8b [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=e1ef6d02868e308089e54d6c14c27e8b
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=502c02fbc101ab1cfce5a014db7d1695 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=502c02fbc101ab1cfce5a014db7d1695
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9dc8f02dde998acbac70cf3a21071b62 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9dc8f02dde998acbac70cf3a21071b62
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8ed7e732d1b0e05ef2ddecd84e4ad58e [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=8ed7e732d1b0e05ef2ddecd84e4ad58e
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=151d571bde67cd0b0449b5bca8ef87e0 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=151d571bde67cd0b0449b5bca8ef87e0
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=1bf6a491c430387bd07231bdd4613500 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=1bf6a491c430387bd07231bdd4613500
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=b8ff04e226c3c1a3b49207c5d109ca5a [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=b8ff04e226c3c1a3b49207c5d109ca5a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9fe8a823e1fb1d8ff6d7648a990301a5 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=9fe8a823e1fb1d8ff6d7648a990301a5
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=f1b38bc00d8536706152db501c4e6ddb [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=f1b38bc00d8536706152db501c4e6ddb
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:04 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=586a975f7919f8c362051dfe04571544 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=586a975f7919f8c362051dfe04571544
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=2ae1d11b22b814c353df2ec60c5c3090 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=2ae1d11b22b814c353df2ec60c5c3090
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=dfefd385435aa615daa4121b3e59c85f [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=dfefd385435aa615daa4121b3e59c85f
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:04 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=f77594b00e004e1175a3ff00fb26429a [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=f77594b00e004e1175a3ff00fb26429a
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=ad4427cd4b6b3d3d377ff4cd161ea749 [following]
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=ad4427cd4b6b3d3d377ff4cd161ea749
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  71.29 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (71.29 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [73]
+
+--23:59:00--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=fade27a270e806152b04ce676db47bb1 [following]
+--23:59:01--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=fade27a270e806152b04ce676db47bb1
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:01 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=83561fef340386f3fb10860658f43f85 [following]
+--23:59:03--  http://sourcebiz.berlios.de/nlsend.php3?period=weekly&SourceBiz_Session=83561fef340386f3fb10860658f43f85
+           => `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output'
+Connecting to sourcebiz.berlios.de:80... connected!
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+
+    0K                                                        @  72.27 KB/s
+
+utime(/home/groups/sourcebiz/htdocs/crontab/nlweekly.output): Operation not permitted
+23:59:03 (72.27 KB/s) - `/home/groups/sourcebiz/htdocs/crontab/nlweekly.output' saved [74]
+

@@ -1,0 +1,2 @@
+59 23  *  *  * /usr/bin/wget http://sourcebiz.berlios.de/nlsend.php3?period=daily -a /home/groups/sourcebiz/htdocs/crontab/nldaily.log -O /home/groups/sourcebiz/htdocs/crontab/nldaily.output
+59 23  *  *  5 /usr/bin/wget http://sourcebiz.berlios.de/nlsend.php3?period=weekly -a /home/groups/sourcebiz/htdocs/crontab/nlweekly.log -O /home/groups/sourcebiz/htdocs/crontab/nlweekly.output
