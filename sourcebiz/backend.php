@@ -38,14 +38,14 @@ echo "<rss version=\"0.91\">\n";
 
 echo "  <channel>\n";
 echo "    <title>".htmlspecialchars($sys_name)."</title>\n";
-echo "    <link>".$sys_url."</link>\n";
+echo "    <link>http:".$sys_url."</link>\n";
 echo "    <description>".htmlspecialchars($sys_name." - ".$sys_title)."</description>\n";
 echo "    <language>en-us</language>\n";
 
 echo "  <image>\n";
 echo "    <title>".htmlspecialchars($sys_name)."</title>\n";
-echo "    <url>".$sys_url.$sys_logo_image."</url>\n";
-echo "    <link>".$sys_url."</link>\n";
+echo "    <url>http:".$sys_url.$sys_logo_small_image."</url>\n";
+echo "    <link>http:".$sys_url."</link>\n";
 echo "    <description>".htmlspecialchars($sys_name." - ".$sys_title)."</description>\n";
 echo "    <width>66</width>\n";
 echo "    <height>73</height>\n";
@@ -53,7 +53,7 @@ echo "  </image>\n";
 
 echo "  <item>\n";
 echo "    <title><b>News:</b></title>\n";
-echo "    <link>".$sys_url."news.php</link>\n";
+echo "    <link>http:".$sys_url."news.php</link>\n";
 echo "  </item>\n";
 
 $db = new DB_SourceBiz;
