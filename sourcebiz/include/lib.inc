@@ -299,7 +299,7 @@ function nlmsg($period) {
     	$msg .= "Homepage     : ".$db->f("homepage_new")."\n";
 	}
     $msg .= "Enterprise   : ".$db->f("name")."\n";
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."newbynewid.php?id=".$db->f("newid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http:".$GLOBALS["sys_url"]."newbynewid.php?id=".$db->f("newid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -346,7 +346,7 @@ function nlmsg($period) {
     if ($db->f("homepage") != "") {
     	$msg .= "Homepage     : ".$db->f("homepage")."\n";
 	}
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."entbyid.php?id=".$db->f("entid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http:".$GLOBALS["sys_url"]."entbyid.php?id=".$db->f("entid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -395,7 +395,7 @@ function nlmsg($period) {
     	$msg .= "Homepage     : ".$db->f("homepage_con")."\n";
 	}
     $msg .= "Enterprise   : ".$db->f("name")."\n";
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."conbyconid.php?id=".$db->f("conid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http:".$GLOBALS["sys_url"]."conbyconid.php?id=".$db->f("conid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -444,7 +444,7 @@ function nlmsg($period) {
     	$msg .= "Homepage     : ".$db->f("homepage_svc")."\n";
 	}
     $msg .= "Enterprise   : ".$db->f("name")."\n";
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."svcbysvcid.php?id=".$db->f("svcid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http;".$GLOBALS["sys_url"]."svcbysvcid.php?id=".$db->f("svcid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -493,7 +493,7 @@ function nlmsg($period) {
     	$msg .= "Homepage     : ".$db->f("homepage_pro")."\n";
 	}
     $msg .= "Enterprise   : ".$db->f("name")."\n";
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."probyproid.php?id=".$db->f("proid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http:".$GLOBALS["sys_url"]."probyproid.php?id=".$db->f("proid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -541,7 +541,7 @@ function nlmsg($period) {
     	$msg .= "Homepage     : ".$db->f("homepage_sol")."\n";
 	}
     $msg .= "Enterprise   : ".$db->f("name")."\n";
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."solbysolid.php?id=".$db->f("solid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http:".$GLOBALS["sys_url"]."solbysolid.php?id=".$db->f("solid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -589,7 +589,7 @@ function nlmsg($period) {
     	$msg .= "Homepage     : ".$db->f("homepage_cus")."\n";
 	}
     $msg .= "Enterprise   : ".$db->f("name")."\n";
-    $msg .= $GLOBALS["sys_name"]."    : ".$GLOBALS["sys_url"]."cusbycusid.php?id=".$db->f("cusid")."\n";
+    $msg .= $GLOBALS["sys_name"]."    : http:".$GLOBALS["sys_url"]."cusbycusid.php?id=".$db->f("cusid")."\n";
     $msg .= "\n               ---------------------------------\n";
     $i++;
   }
@@ -633,6 +633,14 @@ function mailuser($perms, $subj, $message) {
   while($db->next_record()) {
     mail($db->f("email_usr"),"[".$GLOBALS["sys_name"]."] ".$subj,$message,"From: ".$GLOBALS["ml_fromaddr"]."\nReply-To: ".$GLOBALS["ml_replyaddr"]."\nX-Mailer: PHP");
   }
+}
+
+function mailtoencode($str) {
+  $ret = "";
+  $arr = unpack("C*", $str);
+  foreach ($arr as $char)
+    $ret .= sprintf("%%%X", $char);
+  return $ret;
 }
 
 ?>
