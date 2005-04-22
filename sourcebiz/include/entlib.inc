@@ -57,7 +57,7 @@ function entshow($db,$admin) {
 		echo "&nbsp;|&nbsp;<a href=\"".$sess->url("cmtbyentid.php").$sess->add_query(array("id" => $db->f("entid")))."\">".$t->translate("Comments")."</a>&nbsp;]</b>";
 	}
     $timestamp = mktimestamp($db->f("modification"));
-    echo "<p class=\"small\"><b>".$t->translate("by")." <a href=\"mailto:".$db->f("email_usr")."\">".$db->f("user")."</a> - ".timestr($timestamp)."</b>\n";
+    echo "<p class=\"small\"><b>".$t->translate("by")." <a href=\"mailto:".mailtoencode($db->f("email_usr"))."\">".$db->f("user")."</a> - ".timestr($timestamp)."</b>\n";
 	$bx->box_body_end();
 	$bx->box_title_begin();
 	if ($admin || $db->f("status") == 'A') {

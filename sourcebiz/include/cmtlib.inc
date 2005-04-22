@@ -51,7 +51,7 @@ function cmtshow($db,$admin) {
 	}
     echo "<p class=\"small\"><b>".$t->translate("about")."</b> <a href=\"".$sess->url("entbyid.php").$sess->add_query(array("id" => $db->f("entid")))."\">".$db->f("name")."</a>\n";
     $timestamp = mktimestamp($db->f("creation_cmt"));
-    echo "<br><b>".$t->translate("by")." <a href=\"mailto:".$db->f("email_usr")."\">".$db->f("user_cmt")."</a> - ".timestr($timestamp)."</b>\n";
+    echo "<br><b>".$t->translate("by")." <a href=\"mailto:".mailtoencode($db->f("email_usr"))."\">".$db->f("user_cmt")."</a> - ".timestr($timestamp)."</b>\n";
 	$bx->box_body_end();
 	if ($admin || $db->f("status_cmt") == 'D') {
 		$bx->box_title_begin();

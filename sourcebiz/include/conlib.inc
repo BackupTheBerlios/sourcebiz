@@ -96,7 +96,7 @@ function conshow($db,$admin) {
     	}
 		$email_con = $db->f("email_con");
 		if (!empty($email_con)) {
-    		echo "<tr valign=top><td align=right><b>".$t->translate("Email").":</b></td><td>&lt;<a href=\"mailto:".$db->f("email_con")."\">".ereg_replace("@"," at ",htmlentities($db->f("email_con")))."</a>&gt;</td></tr>\n";
+    		echo "<tr valign=top><td align=right><b>".$t->translate("Email").":</b></td><td>&lt;<a href=\"mailto:".mailtoencode($db->f("email_con"))."\">".ereg_replace("@"," at ",htmlentities($db->f("email_con")))."</a>&gt;</td></tr>\n";
 		}
 		$homepage_con = $db->f("homepage_con");
 		if (!empty($homepage_con)) {

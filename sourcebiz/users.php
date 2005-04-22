@@ -16,7 +16,7 @@
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 or later of the GPL.
 #
-# $Id: users.php,v 1.2 2003/02/25 11:45:44 helix Exp $
+# $Id
 #
 ###################################################################### 
 
@@ -82,7 +82,7 @@ $db = new DB_SourceBiz;
 			echo "<td><a href=\"".$sess->url("enterprises.php").$sess->add_query(array("by" => "filter","author" => $db->f("username")))."\">$num</a></td>\n";
 			echo "<td>".$db->f("username")."</td>\n";
 			echo "<td>".$db->f("realname")."</td>";
-			echo "<td>&lt;<a href=\"mailto:".$db->f("email_usr")."\">".ereg_replace("@"," at ",htmlentities($db->f("email_usr")))."</a>&gt;</td>";
+			echo "<td>&lt;<a href=\"mailto:".mailtoencode($db->f("email_usr"))."\">".ereg_replace("@"," at ",htmlentities($db->f("email_usr")))."</a>&gt;</td>";
 			echo "</tr>\n";
 			$i++;
         }
