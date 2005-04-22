@@ -5,7 +5,7 @@
 <span class="titlebar"><font color="<?php echo $th_navstrip_font_color;?>"><?php echo $sys_name?></font></span></td>
 </tr>
 
-<tr ALIGN=RIGHT BGCOLOR="<?php echo $th_nav_bgcolor;?>">
+<tr ALIGN=RIGHT>
 <td><a href="<?php $sess->purl("index.php") ?>" class="menus"><?php echo $t->translate("Home"); ?></a>
 <br><a href="<?php $sess->purl("faq.php") ?>" class="menus"><?php echo $t->translate("Q&amp;A"); ?></a>
 
@@ -104,7 +104,7 @@ if (
 <span class="titlebar"><font color="<?php echo $th_navstrip_font_color;?>"><?php echo $t->translate("Administration"); ?></font></span></td>
 </tr>
 
-<tr ALIGN=RIGHT BGCOLOR="<?php echo $th_nav_bgcolor;?>">
+<tr ALIGN=RIGHT>
 <td>
 <?php
 
@@ -232,7 +232,7 @@ if (
 <span class="titlebar"><font color="<?php echo $th_navstrip_font_color;?>"><?php echo $t->translate("Search"); ?></font></span></td>
 </tr>
 
-<tr ALIGN=RIGHT BGCOLOR="<?php echo $th_nav_bgcolor;?>">
+<tr ALIGN=RIGHT>
 <td align=center>
 <p>
 <form action="<?php $sess->purl("enterprises.php"); ?>">
@@ -253,7 +253,7 @@ echo "<p><input TYPE=\"submit\" NAME=\"Search\" VALUE=\"".$t->translate("Search"
 <span class="titlebar"><font color="<?php echo $th_navstrip_font_color;?>"><?php echo $t->translate("Language");?></font></span></td>
 </tr>
 
-<tr ALIGN=RIGHT BGCOLOR="<?php echo $th_nav_bgcolor;?>">
+<tr ALIGN=RIGHT>
 <td align=center>
 <p>
 <form action="<?php $sess->pself_url()?>">
@@ -281,14 +281,14 @@ while (list(, $ln) = each($la_array)) {
 echo "<p><input TYPE=\"submit\" NAME=\"go\" VALUE=\"".$t->translate("Go")."\">";
 ?>
 </form>
-</td>
-</tr>
-</table>
 <!-- end Language menu -->
 <?php
 if (ereg("Gecko", "$HTTP_USER_AGENT")) {
 	echo "<p align=center><a href=\"javascript:addNetscapePanel();\"><img SRC=\"images/add-button.gif\" BORDER=0 height=45 width=100></a>\n";
 }
 echo "<p align=\"center\"><a href=\"http://developer.berlios.de\">
-<img src=\"http://developer.berlios.de/bslogot.php?group_id=76&type=1\" width=\"124\" height=\"32\" border=\"0\" hspace=\"3\" vspace=\"3\" alt=\"BerliOS Logo\"><br>Developer</a>\n";
+<img src=\"//developer.berlios.de/bslogo.php?group_id=76&type=1\" width=\"124\" height=\"32\" border=\"0\" hspace=\"3\" vspace=\"3\" alt=\"BerliOS Logo\"><br>Developer</a>\n";
 ?>
+</td>
+</tr>
+</table>
