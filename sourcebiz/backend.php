@@ -62,7 +62,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("subject_new"))."</title>\n";
-  echo "    <link>".$sys_url."newbynewid.php?id=".$db->f("newid")."</link>\n";
+  echo "    <link>http:".$sys_url."newbynewid.php?id=".$db->f("newid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
@@ -86,7 +86,7 @@ if (($offset + $blklen) >= $entcnt) {
 
 echo "  <item>\n";
 echo "    <title><b>Unternehmen:</b></title>\n";
-echo "    <link>".$sys_url."enterprises.php</link>\n";
+echo "    <link>http:".$sys_url."enterprises.php</link>\n";
 echo "  </item>\n";
 
 $db->query("SELECT * FROM enterprise WHERE enterprise.status='A' LIMIT $offset,$blklen");
@@ -94,7 +94,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("name"))."</title>\n";
-  echo "    <link>".$sys_url."entbyid.php?id=".$db->f("entid")."</link>\n";
+  echo "    <link>http:".$sys_url."entbyid.php?id=".$db->f("entid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
@@ -118,7 +118,7 @@ if (($offset + $blklen) >= $entcnt) {
 
 echo "  <item>\n";
 echo "    <title><b>Kontakte:</b></title>\n";
-echo "    <link>".$sys_url."contacts.php</link>\n";
+echo "    <link>http:".$sys_url."contacts.php</link>\n";
 echo "  </item>\n";
 
 $db->query("SELECT * FROM contact WHERE contact.status_con='A' LIMIT $offset,$blklen");
@@ -126,7 +126,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("name_con"))."</title>\n";
-  echo "    <link>".$sys_url."conbyconid.php?id=".$db->f("conid")."</link>\n";
+  echo "    <link>http:".$sys_url."conbyconid.php?id=".$db->f("conid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
@@ -150,7 +150,7 @@ if (($offset + $blklen) >= $entcnt) {
 
 echo "  <item>\n";
 echo "    <title><b>Dienste:</b></title>\n";
-echo "    <link>".$sys_url."services.php</link>\n";
+echo "    <link>http:".$sys_url."services.php</link>\n";
 echo "  </item>\n";
 
 $db->query("SELECT * FROM services WHERE services.status_svc='A' LIMIT $offset,$blklen");
@@ -158,7 +158,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("name_svc"))."</title>\n";
-  echo "    <link>".$sys_url."svcbysvcid.php?id=".$db->f("svcid")."</link>\n";
+  echo "    <link>http:".$sys_url."svcbysvcid.php?id=".$db->f("svcid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
@@ -182,7 +182,7 @@ if (($offset + $blklen) >= $entcnt) {
 
 echo "  <item>\n";
 echo "    <title><b>Produkte:</b></title>\n";
-echo "    <link>".$sys_url."products.php</link>\n";
+echo "    <link>http:".$sys_url."products.php</link>\n";
 echo "  </item>\n";
 
 $db->query("SELECT * FROM products WHERE products.status_pro='A' LIMIT $offset,$blklen");
@@ -190,7 +190,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("name_pro"))."</title>\n";
-  echo "    <link>".$sys_url."probyproid.php?id=".$db->f("proid")."</link>\n";
+  echo "    <link>http:".$sys_url."probyproid.php?id=".$db->f("proid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
@@ -214,7 +214,7 @@ if (($offset + $blklen) >= $entcnt) {
 
 echo "  <item>\n";
 echo "    <title><b>Lösungen:</b></title>\n";
-echo "    <link>".$sys_url."solutions.php</link>\n";
+echo "    <link>http:".$sys_url."solutions.php</link>\n";
 echo "  </item>\n";
 
 $db->query("SELECT * FROM solutions WHERE solutions.status_sol='A' LIMIT $offset,$blklen");
@@ -222,7 +222,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("name_sol"))."</title>\n";
-  echo "    <link>".$sys_url."solbysolid.php?id=".$db->f("solid")."</link>\n";
+  echo "    <link>http:".$sys_url."solbysolid.php?id=".$db->f("solid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
@@ -246,7 +246,7 @@ if (($offset + $blklen) >= $entcnt) {
 
 echo "  <item>\n";
 echo "    <title><b>Kunden:</b></title>\n";
-echo "    <link>".$sys_url."customers.php</link>\n";
+echo "    <link>http:".$sys_url."customers.php</link>\n";
 echo "  </item>\n";
 
 $db->query("SELECT * FROM customers WHERE customers.status_cus='A' LIMIT $offset,$blklen");
@@ -254,7 +254,7 @@ $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
   echo "    <title>".htmlspecialchars($db->f("name_cus"))."</title>\n";
-  echo "    <link>".$sys_url."cusbycusid.php?id=".$db->f("cusid")."</link>\n";
+  echo "    <link>http:".$sys_url."cusbycusid.php?id=".$db->f("cusid")."</link>\n";
   echo "  </item>\n";
   $i++;
 }
